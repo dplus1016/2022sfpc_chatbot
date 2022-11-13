@@ -1,0 +1,6 @@
+pip==22.1.2
+streamlit_chat
+pandas
+sentence_transformers
+sklearn
+jsons
